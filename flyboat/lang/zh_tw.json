@@ -1,0 +1,6 @@
+{
+  "player_kick_message": "檢測到你正在開飛船，已被踢出伺服器！",
+  "discord_message": "玩家 {player} 被踢出伺服器，因為他正在開飛船！",
+  "plugin_enabled": "FlyBoat 啟動",
+  "plugin_disabled": "FlyBoat 被禁用，請在 config.yml 中啟用"
+}
