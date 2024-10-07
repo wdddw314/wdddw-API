@@ -1,0 +1,6 @@
+{
+  "player_kick_message": "Detected that you are flying a boat, you have been kicked from the server!",
+  "discord_message": "Player {player} has been kicked from the server for flying a boat!",
+  "plugin_enabled": "FlyBoat enabled",
+  "plugin_disabled": "FlyBoat disabled, please enable in config.yml"
+}
